@@ -1,0 +1,11 @@
+title: Keyboards HI Meetup 2022
+description: December 18th 2022, 10:00AM - 1:30PM
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: #
+social:
+  type: Organization
+gems:
+  - jekyll-mentions
