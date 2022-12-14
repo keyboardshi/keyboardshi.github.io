@@ -1,15 +1,15 @@
 # Keyboards HI Meetup
 
-# Venue - 801 South Street, Honolulu, HI 96813
+# Venue - Meeting Room A @ 801 South Street, Honolulu, HI 96813
 ![](images/building.png)
-
+![](images/meetingroom.png)
 
 # Entrance for People Who Are Driving to the Event
 ![](images/parking.png)
 
 ## Parking Instructions
 1. Collect ticket from dispenser at gate entry of Garage A
-2. You may only park in one of the 79 stalls numbered 1027- 1032, 1085-1090, 1101-1163 or 1172-1175
+2. You may only park in one of the 79 stalls on the 10th and 11th floor numbered 1027- 1032, 1085-1090, 1101-1163 or 1172-1175
    1. __DO NOT park on the first floor, it is only for residential guests__
 3. Take note of your license plate and stall number
 4. Take the elevator to the ground level and sign in with security at the lobby
