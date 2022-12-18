@@ -2,7 +2,8 @@
 
 # Venue - Meeting Room A @ 801 South Street, Honolulu, HI 96813
 ![](images/building.png)
-![](images/meetingroom.png)
+![](images/meeting-room-a.png)
+![meeting-room-a-topview.png](images%2Fmeeting-room-a-topview.png)
 
 # Entrance for People Who Are Driving to the Event
 ![](images/parking.png)
