@@ -15,7 +15,7 @@
    1. __DO NOT park on the first floor, it is only for residential guests__
 3. Take note of your license plate and stall number
 4. Take the elevator to the ground level and sign in with security at the lobby
-5. **Alert the security officer that you are attending a meeting room event in Meeting Room A**
+5. **Alert the security officer that you are attending a meeting room event in Meeting Room B**
 6. A validation stamp will be provided that will allow you to exit the parking garage at no cost (up to 6 hours)
 7. **Upon leaving, present the parking ticket to security. Do not insert it in the ticket collection machine**
 
