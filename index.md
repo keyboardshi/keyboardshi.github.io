@@ -2,15 +2,11 @@
 
 # Venue - Meeting Room B @ 801 South Street, Honolulu, HI 96813
 
-![](images/building.png)
-![](images/meeting-room-a.png)
-![meeting-room-a-topview.png](images%2Fmeeting-room-a-topview.png)
+![](images/2023/dropoff.png)
+![](images/2023/garage-b-overview.png)
+![](images/2023/garage-b-sign.png)
+![](images/2023/garage-1.png)
 
-# Entrance for People Who Are Driving to the Event
-
-![](images/parking.png)
-![pk2.jpg](images%2Fpk2.jpg)
-![pk3.jpg](images%2Fpk3.jpg)
 
 ## Parking Instructions
 
