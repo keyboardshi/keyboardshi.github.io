@@ -2,7 +2,7 @@
 
 ## Location: Liliha Public Library - 1515 Liliha St, Honolulu, HI 96817
 
-![](images/2024/lilihalibrary.png)
+![](images/2024/lilihalibrary.PNG)
 
 ## Parking Instructions:
 
