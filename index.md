@@ -1,22 +1,21 @@
-# Keyboards HI Meetup
+# Keyboards Hawaii 2024 Summer Meetup
 
-# Venue - Meeting Room B @ 801 South Street, Honolulu, HI 96813
+## Location: Liliha Public Library - 1515 Liliha St, Honolulu, HI 96817
 
-![](images/2023/dropoff.png)
-![](images/2023/garage-b-overview.png)
-![](images/2023/garage-b-sign.png)
-![](images/2023/garage-1.png)
+![](images/2024/lilihalibrary.png)
 
+## Parking Instructions:
 
-## Parking Instructions
+There is very limited (and free) parking available atop the public library. When facing the building, there will be a ramp on the right-side which will bring you to the roof where the parking stalls are.
 
-1. Collect ticket from dispenser at gate entry of Garage B
-2. Attendees may only park in one of the 74 stalls numbered 925 - 932, 979 - 985, 1001 - 1035 or 1044 - 1067.
-   1. **DO NOT park on the first floor, it is only for residential guests**
-3. Take note of your license plate and stall number
-4. Take the elevator to the ground level and sign in with security at the lobby
-5. **Alert the security officer that you are attending a meeting room event in Meeting Room B**
-6. A validation stamp will be provided that will allow you to exit the parking garage at no cost (up to 6 hours)
-7. **Upon leaving, present the parking ticket to security. Do not insert it in the ticket collection machine**
+Please note as we are sharing this space with others attending the library for non-keyboard activities, it is **highly recommended** to either park offsite and walk over or at the very least, carpool to the library. Liliha Square down the road by Times Supermarket has ample parking available as well.
 
-#### OTHER IMPORTANT DETAILS: Once signed in, the attendee should alert the security officer that they are attending a meeting room event. The Security Officer will provide a validation stamp allowing the ticket holder to exit the parking garage at no cost (up to six hours). The ticket must be presented to security prior to leaving (not inserted in the ticket collection machine).
+## Disclosures:
+
+The primary rules from the library are that there are no flames or alcohol on the premises. No soldering at this event folks!
+
+Some people are also bringing some snacks to share with the attendees, you are free to bring some refreshments to share as well if you wish!
+
+Keyboards Hawaii is not responsible for any trading/buying/selling activities that happen at this meetup. Any aforementioned transactions will be at your own discretion and risk.
+
+And last but not least, please kokua and respect each other and their property :)
