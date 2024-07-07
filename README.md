@@ -8,4 +8,4 @@ We currently don't have any meetups planned at this time. But you may come chat 
 
 ## Future Meetups 
 
-For the remainder of 2024, we do hope to schedule two more meetups at most. One potentially in fall where we attend the 2024 Hawaii Geek Meet and lastly our own annual (and usually larger!) winter-time meetup. Mahalo and hope too see you there!
+For the remainder of 2024, we do hope to schedule two more meetups at most. One potentially in fall where we attend the 2024 Hawaii Geek Meet and lastly our own annual (and usually larger!) winter-time meetup. Mahalo and hope to see you there!
