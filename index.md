@@ -2,7 +2,7 @@
 
 <!-- ![](images/2024/) -->
 
-Aloha! We currently don't have any meetups planned at this time. But come hang with us over at discord @ [dsc.gg/hikb](dsc.gg/hikb) OR check us out on Instagram [@keyboardshawaii](https://www.instagram.com/keyboardshawaii/).
+Aloha! We currently don't have any meetups planned at this time. But come hang with us over at discord @ [dsc.gg/hikb](https://dsc.gg/hikb) OR check us out on Instagram [@keyboardshawaii](https://www.instagram.com/keyboardshawaii/).
 
 ## Future Meetups 
 
