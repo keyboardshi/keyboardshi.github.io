@@ -7,3 +7,5 @@ We currently don't have any meetups planned at this time. But you may come chat 
 ## Future Meetups 
 
 For the remainder of 2024, we are looking at one more meetup for our own annual (and usually largest!) winter-time meetup. Mahalo and hope to see you there!
+
+![](images/2024/july2024meetup.jpg)
