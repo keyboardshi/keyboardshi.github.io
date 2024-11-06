@@ -1,7 +1,7 @@
 <!-- ![](images/2024/) -->
 
 <p align="center">
-  <img src="images/2024/july2024meetup.jpg" width="75%"/>
+  <img src="images/2024/july2024meetup.jpg" width="85%%"/>
 </p>
 
 Aloha! We are Keyboards Hawaii, a local group of custom keyboard enthusiasts primarily gathered around the island of Oahu.
@@ -58,6 +58,6 @@ People who want to use the parking structure, you will need to drive around to t
 9. Thank you for coming!
 
 <p align="center">
-    <img src="images/2023/garage-b-sign.png" width="50%"/>
-    <img src="images/2023/garage-1.png" width="50%"/>
+    <img src="images/2023/garage-b-sign.png" width="75%"/>
+    <img src="images/2023/garage-1.png" width="75%"/>
 </p>
