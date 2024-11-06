@@ -1,5 +1,9 @@
 <!-- ![](images/2024/) -->
 
+<p align="center">
+  <img src="images/2024/july2024meetup.jpg" width="75%"/>
+</p>
+
 Aloha! We are Keyboards Hawaii, a local group of custom keyboard enthusiasts primarily gathered around the island of Oahu.
 
 Come chat with the community over at Discord @[dsc.gg/hikb](https://dsc.gg/hikb) or check us out on Instagram [@keyboardshawaii](https://www.instagram.com/keyboardshawaii/).
@@ -35,8 +39,10 @@ If you are being dropped off, you can conveniently pull into the dropoff/pickup 
 
 People who want to use the parking structure, you will need to drive around to the back of the building to find **Garage B**. There is a back road that is connected to Kapiolani and Kawaiahao that leads to the garage. Pictures below for reference.
 
-![](images/2023/dropoff.png)
-![](images/2023/garage-b-overview.png)
+<p align="center">
+    <img src="images/2023/dropoff.png" width="75%"/>
+    <img src="images/2023/garage-b-overview.png" width="75%"/>
+</p>
 
 
 ### Parking Instructions
@@ -51,5 +57,7 @@ People who want to use the parking structure, you will need to drive around to t
 8. **Upon leaving, present the parking ticket to security.** Do not insert it in the ticket collection machine.
 9. Thank you for coming!
 
-![](images/2023/garage-b-sign.png)
-![](images/2023/garage-1.png)
+<p align="center">
+    <img src="images/2023/garage-b-sign.png" width="50%"/>
+    <img src="images/2023/garage-1.png" width="50%"/>
+</p>
