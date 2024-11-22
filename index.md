@@ -12,7 +12,7 @@ Come chat with the community over at Discord @[dsc.gg/hikb](https://dsc.gg/hikb)
 # Keyboards Hawaii - Winter 2024 Meetup
 
 <p align="center">
-  <img src="images/2024/KBHI_WM24.png" width="85%%"/>
+  <img src="images/2024/KBHI_WM24_3.png" width="85%%"/>
 </p>
 
 It's that time of year again for our winter meetup! This year it will be on **Saturday, November 30th from 8:30 AM - 2 PM.** (We are no longer starting at 8:00 AM to allow for setup time)
@@ -31,7 +31,10 @@ Thank you to our sponsors for their incredible generosity and providing our humb
 - [ChosFox](https://chosfox.com/)
 - [CrackedKeebs](https://www.instagram.com/crackedkeebs/)
 - [Dangkeebs](https://dangkeebs.com/)
+- [GMK / Uniqey](https://uniqey.net/en/)
 - [Kinetic Labs](https://kineticlabs.com/)
+- [Mekibo](https://mekibo.com/)
+- [SwitchOddities](https://switchoddities.com/)
 
 Mahalo and hope to see you there!
 
