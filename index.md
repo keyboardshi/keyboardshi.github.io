@@ -6,7 +6,9 @@
 
 Aloha! We are Keyboards Hawaii, a local group of custom keyboard enthusiasts primarily gathered around the island of Oahu.
 
-Come chat with the community over at Discord @[dsc.gg/hikb](https://dsc.gg/hikb) or check us out on Instagram [@keyboardshawaii](https://www.instagram.com/keyboardshawaii/).
+Come chat with the community over at Discord @[dsc.gg/kbhi](https://dsc.gg/kbhi) or check us out on Instagram [@keyboardshawaii](https://www.instagram.com/keyboardshawaii/).
+
+For meetup or sponsorship inquiries, you may reach us at [keyboardshi@gmail.com](mailto:keyboardshi@gmail.com).
 
 
 # Keyboards Hawaii - Winter 2024 Meetup
@@ -39,16 +41,16 @@ Thank you to our sponsors for their incredible generosity and providing our humb
 Mahalo and hope to see you there!
 
 
-### Meetup Etiquette and Additional Notes
+## Meetup Etiquette and Additional Notes
  
- - Check for permission before handling any keyboards on display! We will be providing index cards to include this info for displays.
+ - Check for permission before handling any keyboards on display! We will be providing index cards for the owners to indicate this per keyboard.
  - Remember to keep your hands clean before touching any displays and refrain from eating/drinking near them.
- - This is NOT a for-profit event. Attendance is free to the public.
+ - This is NOT a for-profit event. Attendance is free to the public and there are no fees to participate in any giveaways.
  - Any sales/purchases/trades are at your own risk and discretion. Keyboards Hawaii is not responsible for these transactions.
- - Lastly, we do not own the venue. Please treat the premises with respect and clean up after yourselves. Thank you!
+ - Lastly, we do not own the venue. Please treat the premises with respect and clean up after yourselves. The meeting room rental fees are at the expense of our organizers' pockets. Thank you for your cooperation!
 
 
-### Venue Details
+## Venue Details
 
 If you are being dropped off, you can conveniently pull into the dropoff/pickup area right off of South St. Meeting Room B will be right in front of you.
 
@@ -60,7 +62,7 @@ People who want to use the parking structure, you will need to drive around to t
 </p>
 
 
-### Parking Instructions
+## Parking Instructions
 
 1. Collect ticket from dispenser at gate entry of Garage B.
 2. **DO NOT park on the first floor, those are reserved for residential guests.**
