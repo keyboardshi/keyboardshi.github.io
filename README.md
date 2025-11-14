@@ -4,6 +4,6 @@ Aloha! We are Keyboards Hawaii, a local group of custom keyboard enthusiasts pri
 
 Come chat with the community over at Discord @[dsc.gg/hikb](https://dsc.gg/hikb) or check us out on Instagram [@keyboardshawaii](https://www.instagram.com/keyboardshawaii/).
 
-## Keyboards Hawaii - Winter 2024 Meetup - 11/30/24
+## Keyboards Hawaii - 2025 Meetup - 12/13/25
 
-We are hosting our last event of the year! Please visit our website at https://keyboardshi.github.io for details.
+Our winter meet is coming up! Please visit our website at https://www.keyboardshawaii.com for details.
