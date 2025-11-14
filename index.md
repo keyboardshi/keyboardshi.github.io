@@ -23,7 +23,7 @@ We will be hosting the meetup in **Meeting Room B of the apartment complex at [8
 
 **Please see below for details regarding the location and parking instructions.**
 
-If this is your first keyboard meetup, welcome! This is just a friendly meetup to hang out, eat some snacks, and show off your mechanical keyboard collection amongst other enthusiasts and newbies of the keyboard hobby. No, you do not need to have a keyboard to attend... but we do like to bring food to these events (potluck style, but not required), so come out -- There will be giveaways too!
+If this is your first keyboard meetup, welcome! This is just a friendly meetup to hang out, eat some snacks, and show off your mechanical keyboard collection amongst other enthusiasts and newbies of the keyboard hobby. No, you do not need to have a keyboard to attend... but we do like to bring food to these events (potluck style, but not required), so come out!
 
 To stay up to date on any additional announcements, this page will be updated accordingly. All announcements will be cross posted within our Discord and on our Instagram page as well.
 
