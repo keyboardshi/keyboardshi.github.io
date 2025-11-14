@@ -1,7 +1,7 @@
 <!-- ![](images/2024/) -->
 
 <p align="center">
-  <img src="images/2024/july2024meetup.jpg" width="85%%"/>
+  <img src="images/2025/KBHI_WINTER_2024_GROUP.jpg" width="75%%"/>
 </p>
 
 Aloha! We are Keyboards Hawaii, a local group of custom keyboard enthusiasts primarily gathered around the island of Oahu.
@@ -14,10 +14,10 @@ For meetup or sponsorship inquiries, you may reach us at [keyboardshi@gmail.com]
 # Keyboards Hawaii - Winter 2024 Meetup
 
 <p align="center">
-  <img src="images/2024/KBHI_WM24_3.png" width="85%%"/>
+  <img src="images/2025/KBHI_2025.png" width="75%%"/>
 </p>
 
-It's that time of year again for our winter meetup! This year it will be on **Saturday, November 30th from 8:30 AM - 2 PM.** (We are no longer starting at 8:00 AM to allow for setup time)
+It's that time of year again for our winter meetup! This year it will be on **Saturday, December 13th from 9:00 AM - 1 PM.**
 
 We will be hosting the meetup in **Meeting Room B of the apartment complex at [801 South Street, Honolulu, HI 96813](https://www.google.com/maps/place/801+South+St,+Honolulu,+HI+96813/@21.3027265,-157.8570346,19z/data=!3m1!4b1!4m6!3m5!1s0x7c006e0a3ec87477:0xf7e59aecfdbbc86a!8m2!3d21.3027265!4d-157.8563895!16s%2Fg%2F11c5n0qsfr?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D)**. For those who came out the past few winters, yes it's the same location.
 
@@ -27,25 +27,14 @@ If this is your first keyboard meetup, welcome! This is just a friendly meetup t
 
 To stay up to date on any additional announcements, this page will be updated accordingly. All announcements will be cross posted within our Discord and on our Instagram page as well.
 
-Thank you to our sponsors for their incredible generosity and providing our humble community with giveaways for the holidays this year.
-
-- [CannonKeys](https://cannonkeys.com/)
-- [ChosFox](https://chosfox.com/)
-- [CrackedKeebs](https://www.instagram.com/crackedkeebs/)
-- [Dangkeebs](https://dangkeebs.com/)
-- [GMK / Uniqey](https://uniqey.net/en/)
-- [Kinetic Labs](https://kineticlabs.com/)
-- [Mekibo](https://mekibo.com/)
-- [SwitchOddities](https://switchoddities.com/)
-
 Mahalo and hope to see you there!
 
 
 ## Meetup Etiquette and Additional Notes
  
- - Check for permission before handling any keyboards on display! We will be providing index cards for the owners to indicate this per keyboard.
+ - Check for permission before handling any keyboards on display! We unfortunately will not be providing index cards this year :(
  - Remember to keep your hands clean before touching any displays and refrain from eating/drinking near them.
- - This is NOT a for-profit event. Attendance is free to the public and there are no fees to participate in any giveaways.
+ - This is NOT a for-profit event. Attendance is free to the public.
  - Any sales/purchases/trades are at your own risk and discretion. Keyboards Hawaii is not responsible for these transactions.
  - Lastly, we do not own the venue. Please treat the premises with respect and clean up after yourselves. The meeting room rental fees are at the expense of our organizers' pockets. Thank you for your cooperation!
 
