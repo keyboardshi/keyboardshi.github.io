@@ -11,7 +11,7 @@ Come chat with the community over at Discord @[dsc.gg/kbhi](https://dsc.gg/kbhi)
 For meetup or sponsorship inquiries, you may reach us at [keyboardshi@gmail.com](mailto:keyboardshi@gmail.com).
 
 
-# Keyboards Hawaii - Winter 2024 Meetup
+# Keyboards Hawaii - Winter 2025 Meetup
 
 <p align="center">
   <img src="images/2025/KBHI_2025.png" width="75%%"/>
