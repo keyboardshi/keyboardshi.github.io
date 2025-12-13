@@ -32,7 +32,7 @@ Mahalo and hope to see you there!
 
 ## Meetup Etiquette and Additional Notes
  
- - Check for permission before handling any keyboards on display! We unfortunately will not be providing index cards this year :(
+ - Check for permission before handling any keyboards on display! We will provide informational cards to display with any keyboards.
  - Remember to keep your hands clean before touching any displays and refrain from eating/drinking near them.
  - This is NOT a for-profit event. Attendance is free to the public.
  - Any sales/purchases/trades are at your own risk and discretion. Keyboards Hawaii is not responsible for these transactions.
